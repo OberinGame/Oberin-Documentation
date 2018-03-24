@@ -1,6 +1,6 @@
 # Setting up the Development VM
-1. Download the VM Image from [todo].
-2. Unzip.
+1. Download the VM Image from https://drive.google.com/open?id=1CY3AuCZRkNZhw62-mPwRQOYMJkULzNwD.
+2. Unzip, password is 'oberin'.
 3. Open with VMWare.
 
 VMImage contains:
